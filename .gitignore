@@ -34,5 +34,21 @@ Thumbs.db
 # Large files
 *.zip
 
-# Private directories
+# Private/excluded directories
 holographic_prod/
+archive/
+grace_market_dynamics/
+research/
+src/
+yang_mills_p_np/
+
+# Other excluded files
+DOCUMENTATION_AUDIT.md
+THE_GEOMETRY_OF_MIND.md
+TORUS_ARCHITECTURE_EXPLAINED.md
+The_Self_Consistent_Coherence_Maximizing.txt
+UNIVERSAL_FRACTAL_ALPHA.md
+index.html
+paper.tex
+paper.txt
+requirements.txt
