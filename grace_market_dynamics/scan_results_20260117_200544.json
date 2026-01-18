@@ -1,0 +1,960 @@
+{
+  "scan_time": "2026-01-17T20:05:44.748834",
+  "total_scanned": 685,
+  "favorable": [
+    {
+      "ticker": "GL",
+      "asset_class": "Stock",
+      "price": 138.97000122070312,
+      "t_stat": 7.4925931231378105,
+      "mean_return": 0.028623592843466737,
+      "n": 5
+    },
+    {
+      "ticker": "IP",
+      "asset_class": "Stock",
+      "price": 43.349998474121094,
+      "t_stat": 7.370389962135108,
+      "mean_return": 0.03355670105707968,
+      "n": 5
+    },
+    {
+      "ticker": "USDTRY=X",
+      "asset_class": "Forex",
+      "price": 43.270999908447266,
+      "t_stat": 5.976268868824088,
+      "mean_return": 0.003013698334012549,
+      "n": 19
+    },
+    {
+      "ticker": "TXT",
+      "asset_class": "Stock",
+      "price": 94.2300033569336,
+      "t_stat": 5.1664269838955885,
+      "mean_return": 0.018420298598702815,
+      "n": 11
+    },
+    {
+      "ticker": "VWO",
+      "asset_class": "ETF",
+      "price": 56.0,
+      "t_stat": 4.308062728122179,
+      "mean_return": 0.016994175102422886,
+      "n": 9
+    },
+    {
+      "ticker": "WST",
+      "asset_class": "Stock",
+      "price": 259.7900085449219,
+      "t_stat": 4.239306971478678,
+      "mean_return": 0.027671078860663556,
+      "n": 5
+    },
+    {
+      "ticker": "CTAS",
+      "asset_class": "Stock",
+      "price": 195.4199981689453,
+      "t_stat": 4.0081424341256096,
+      "mean_return": 0.015447778341376561,
+      "n": 8
+    },
+    {
+      "ticker": "CVS",
+      "asset_class": "Stock",
+      "price": 78.5999984741211,
+      "t_stat": 3.9956499784663486,
+      "mean_return": 0.03839946499897787,
+      "n": 9
+    },
+    {
+      "ticker": "GE",
+      "asset_class": "Stock",
+      "price": 325.1199951171875,
+      "t_stat": 3.864362270007281,
+      "mean_return": 0.027643812647036952,
+      "n": 7
+    },
+    {
+      "ticker": "EFA",
+      "asset_class": "ETF",
+      "price": 99.52999877929688,
+      "t_stat": 3.2400195321815035,
+      "mean_return": 0.011803043157349258,
+      "n": 10
+    },
+    {
+      "ticker": "LYV",
+      "asset_class": "Stock",
+      "price": 144.42999267578125,
+      "t_stat": 3.223217233564025,
+      "mean_return": 0.0326506406849369,
+      "n": 9
+    },
+    {
+      "ticker": "EURNZD=X",
+      "asset_class": "Forex",
+      "price": 2.0144999027252197,
+      "t_stat": 3.1922759118575907,
+      "mean_return": 0.004145521061071459,
+      "n": 15
+    },
+    {
+      "ticker": "PM",
+      "asset_class": "Stock",
+      "price": 173.6199951171875,
+      "t_stat": 3.1027397398731553,
+      "mean_return": 0.019514497916998507,
+      "n": 15
+    },
+    {
+      "ticker": "CHFJPY=X",
+      "asset_class": "Forex",
+      "price": 197.37892150878906,
+      "t_stat": 3.100284363461372,
+      "mean_return": 0.005930122613699795,
+      "n": 16
+    },
+    {
+      "ticker": "ON",
+      "asset_class": "Stock",
+      "price": 60.33000183105469,
+      "t_stat": 3.085460539887333,
+      "mean_return": 0.042703819862168944,
+      "n": 7
+    },
+    {
+      "ticker": "XRP-USD",
+      "asset_class": "Crypto",
+      "price": 2.0591111183166504,
+      "t_stat": 2.9501633306783974,
+      "mean_return": 0.023175959104352824,
+      "n": 13
+    },
+    {
+      "ticker": "AUDUSD=X",
+      "asset_class": "Forex",
+      "price": 0.6685385704040527,
+      "t_stat": 2.8693591292757628,
+      "mean_return": 0.006849132417905768,
+      "n": 10
+    },
+    {
+      "ticker": "TEL",
+      "asset_class": "Stock",
+      "price": 241.00999450683594,
+      "t_stat": 2.8164467260418404,
+      "mean_return": 0.026066227242952267,
+      "n": 8
+    },
+    {
+      "ticker": "QRVO",
+      "asset_class": "Stock",
+      "price": 80.11000061035156,
+      "t_stat": 2.753783886016612,
+      "mean_return": 0.021900726589374742,
+      "n": 16
+    },
+    {
+      "ticker": "HII",
+      "asset_class": "Stock",
+      "price": 425.8999938964844,
+      "t_stat": 2.679192759053278,
+      "mean_return": 0.021216163036212456,
+      "n": 19
+    },
+    {
+      "ticker": "LUV",
+      "asset_class": "Stock",
+      "price": 43.119998931884766,
+      "t_stat": 2.6572179197075423,
+      "mean_return": 0.03992710944521941,
+      "n": 7
+    },
+    {
+      "ticker": "LNC",
+      "asset_class": "Stock",
+      "price": 40.900001525878906,
+      "t_stat": 2.603340653807751,
+      "mean_return": 0.025338474532090427,
+      "n": 8
+    },
+    {
+      "ticker": "L",
+      "asset_class": "Stock",
+      "price": 102.48999786376953,
+      "t_stat": 2.5526227906284946,
+      "mean_return": 0.010790881038625567,
+      "n": 11
+    },
+    {
+      "ticker": "MLM",
+      "asset_class": "Stock",
+      "price": 651.6599731445312,
+      "t_stat": 2.551499861004639,
+      "mean_return": 0.013632975406389337,
+      "n": 13
+    },
+    {
+      "ticker": "CHD",
+      "asset_class": "Stock",
+      "price": 90.61000061035156,
+      "t_stat": 2.4956402030445926,
+      "mean_return": 0.01940277247756366,
+      "n": 9
+    },
+    {
+      "ticker": "EXPD",
+      "asset_class": "Stock",
+      "price": 162.41000366210938,
+      "t_stat": 2.4787198691389896,
+      "mean_return": 0.017034280552132346,
+      "n": 14
+    },
+    {
+      "ticker": "AKAM",
+      "asset_class": "Stock",
+      "price": 93.48999786376953,
+      "t_stat": 2.4122498666743835,
+      "mean_return": 0.014554498097504849,
+      "n": 7
+    },
+    {
+      "ticker": "FOXA",
+      "asset_class": "Stock",
+      "price": 71.98999786376953,
+      "t_stat": 2.4107115041529323,
+      "mean_return": 0.01908548271022852,
+      "n": 10
+    },
+    {
+      "ticker": "SYK",
+      "asset_class": "Stock",
+      "price": 363.7799987792969,
+      "t_stat": 2.3129230864367862,
+      "mean_return": 0.010055384874817053,
+      "n": 12
+    },
+    {
+      "ticker": "RSX",
+      "asset_class": "ETF",
+      "price": 5.61870002746582,
+      "t_stat": 2.2618003317580317,
+      "mean_return": 4.796751926722469e-05,
+      "n": 221
+    },
+    {
+      "ticker": "RGTI",
+      "asset_class": "Stock",
+      "price": 25.6200008392334,
+      "t_stat": 2.260322336288185,
+      "mean_return": 0.09744428113029034,
+      "n": 9
+    },
+    {
+      "ticker": "AIZ",
+      "asset_class": "Stock",
+      "price": 234.0,
+      "t_stat": 2.2507884385782244,
+      "mean_return": 0.015157189228519576,
+      "n": 14
+    },
+    {
+      "ticker": "ZEC-USD",
+      "asset_class": "Crypto",
+      "price": 400.0949401855469,
+      "t_stat": 2.248325773088406,
+      "mean_return": 0.06135353415537707,
+      "n": 25
+    },
+    {
+      "ticker": "VLO",
+      "asset_class": "Stock",
+      "price": 183.4600067138672,
+      "t_stat": 2.13716525450686,
+      "mean_return": 0.025694854530178102,
+      "n": 10
+    },
+    {
+      "ticker": "WM",
+      "asset_class": "Stock",
+      "price": 221.22999572753906,
+      "t_stat": 2.126005273979442,
+      "mean_return": 0.007351481956947459,
+      "n": 16
+    },
+    {
+      "ticker": "EWU",
+      "asset_class": "ETF",
+      "price": 45.18000030517578,
+      "t_stat": 2.1228821601815095,
+      "mean_return": 0.007441548641405637,
+      "n": 13
+    },
+    {
+      "ticker": "COF",
+      "asset_class": "Stock",
+      "price": 239.13999938964844,
+      "t_stat": 2.1136673751124357,
+      "mean_return": 0.022767199785732828,
+      "n": 6
+    },
+    {
+      "ticker": "TJX",
+      "asset_class": "Stock",
+      "price": 157.3800048828125,
+      "t_stat": 2.108920247528869,
+      "mean_return": 0.008702766620229655,
+      "n": 9
+    },
+    {
+      "ticker": "ED",
+      "asset_class": "Stock",
+      "price": 103.80999755859375,
+      "t_stat": 2.083942464802937,
+      "mean_return": 0.012411125349577796,
+      "n": 13
+    },
+    {
+      "ticker": "ZM",
+      "asset_class": "Stock",
+      "price": 80.95999908447266,
+      "t_stat": 2.0506053512417237,
+      "mean_return": 0.01974296845641863,
+      "n": 5
+    },
+    {
+      "ticker": "ABT",
+      "asset_class": "Stock",
+      "price": 121.76000213623047,
+      "t_stat": 2.0288607743793885,
+      "mean_return": 0.01984033334369817,
+      "n": 8
+    },
+    {
+      "ticker": "AAVE-USD",
+      "asset_class": "Crypto",
+      "price": 173.73223876953125,
+      "t_stat": 1.9859623495412917,
+      "mean_return": 0.03839878151892862,
+      "n": 22
+    },
+    {
+      "ticker": "BILL",
+      "asset_class": "Stock",
+      "price": 46.599998474121094,
+      "t_stat": 1.9815246572804168,
+      "mean_return": 0.035663857870909865,
+      "n": 10
+    },
+    {
+      "ticker": "XLE",
+      "asset_class": "ETF",
+      "price": 47.689998626708984,
+      "t_stat": 1.9759429830729476,
+      "mean_return": 0.01419779628849437,
+      "n": 11
+    },
+    {
+      "ticker": "MSFT",
+      "asset_class": "Stock",
+      "price": 459.8599853515625,
+      "t_stat": 1.9510566113665628,
+      "mean_return": 0.020924196294373032,
+      "n": 8
+    },
+    {
+      "ticker": "ULTA",
+      "asset_class": "Stock",
+      "price": 663.47998046875,
+      "t_stat": 1.9429460026630854,
+      "mean_return": 0.017172136806635763,
+      "n": 17
+    },
+    {
+      "ticker": "AVGO",
+      "asset_class": "Stock",
+      "price": 351.7099914550781,
+      "t_stat": 1.8998934956373483,
+      "mean_return": 0.0290065176103663,
+      "n": 17
+    },
+    {
+      "ticker": "BTC-USD",
+      "asset_class": "Crypto",
+      "price": 95037.359375,
+      "t_stat": 1.8671782221572832,
+      "mean_return": 0.015616490309405298,
+      "n": 24
+    },
+    {
+      "ticker": "VICI",
+      "asset_class": "Stock",
+      "price": 28.979999542236328,
+      "t_stat": 1.8314518501640953,
+      "mean_return": 0.016462233302108054,
+      "n": 5
+    },
+    {
+      "ticker": "HBAN",
+      "asset_class": "Stock",
+      "price": 18.020000457763672,
+      "t_stat": 1.7711564480127333,
+      "mean_return": 0.01784593842427554,
+      "n": 14
+    },
+    {
+      "ticker": "EWY",
+      "asset_class": "ETF",
+      "price": 112.22000122070312,
+      "t_stat": 1.7277888666416532,
+      "mean_return": 0.026030353824981905,
+      "n": 9
+    },
+    {
+      "ticker": "BWA",
+      "asset_class": "Stock",
+      "price": 47.189998626708984,
+      "t_stat": 1.7148167560323746,
+      "mean_return": 0.02100180112176364,
+      "n": 6
+    },
+    {
+      "ticker": "BLUR-USD",
+      "asset_class": "Crypto",
+      "price": 0.037598464637994766,
+      "t_stat": 1.7038143778289845,
+      "mean_return": 0.027064219919838182,
+      "n": 18
+    },
+    {
+      "ticker": "ISRG",
+      "asset_class": "Stock",
+      "price": 535.0,
+      "t_stat": 1.6847393349159874,
+      "mean_return": 0.015197482876303736,
+      "n": 8
+    },
+    {
+      "ticker": "WIF-USD",
+      "asset_class": "Crypto",
+      "price": 0.3805265724658966,
+      "t_stat": 1.6843609329058467,
+      "mean_return": 0.06274993300778589,
+      "n": 17
+    },
+    {
+      "ticker": "HPQ",
+      "asset_class": "Stock",
+      "price": 20.3700008392334,
+      "t_stat": 1.6718000923288765,
+      "mean_return": 0.029730498312523168,
+      "n": 8
+    },
+    {
+      "ticker": "DXJ",
+      "asset_class": "ETF",
+      "price": 155.6300048828125,
+      "t_stat": 1.6531935473067232,
+      "mean_return": 0.013583202385539117,
+      "n": 9
+    },
+    {
+      "ticker": "CORN",
+      "asset_class": "ETF",
+      "price": 17.18000030517578,
+      "t_stat": 1.649436178703251,
+      "mean_return": 0.007103516905135887,
+      "n": 12
+    },
+    {
+      "ticker": "MRK",
+      "asset_class": "Stock",
+      "price": 108.83000183105469,
+      "t_stat": 1.597678798186036,
+      "mean_return": 0.017781660838215863,
+      "n": 8
+    },
+    {
+      "ticker": "SBNY",
+      "asset_class": "Stock",
+      "price": 1.0199999809265137,
+      "t_stat": 1.5833479461825886,
+      "mean_return": 0.06029372867323319,
+      "n": 9
+    },
+    {
+      "ticker": "MCK",
+      "asset_class": "Stock",
+      "price": 840.4600219726562,
+      "t_stat": 1.5794554231506077,
+      "mean_return": 0.019575024671727337,
+      "n": 8
+    },
+    {
+      "ticker": "MCO",
+      "asset_class": "Stock",
+      "price": 538.9199829101562,
+      "t_stat": 1.5682739422288205,
+      "mean_return": 0.01031770324417093,
+      "n": 18
+    },
+    {
+      "ticker": "OKTA",
+      "asset_class": "Stock",
+      "price": 89.55000305175781,
+      "t_stat": 1.5650425149471587,
+      "mean_return": 0.0403770975028818,
+      "n": 11
+    },
+    {
+      "ticker": "AMZN",
+      "asset_class": "Stock",
+      "price": 239.1199951171875,
+      "t_stat": 1.540359674906536,
+      "mean_return": 0.020014444096766226,
+      "n": 11
+    },
+    {
+      "ticker": "MAA",
+      "asset_class": "Stock",
+      "price": 137.08999633789062,
+      "t_stat": 1.5321013348994252,
+      "mean_return": 0.011886030270109926,
+      "n": 8
+    },
+    {
+      "ticker": "BEN",
+      "asset_class": "Stock",
+      "price": 26.0,
+      "t_stat": 1.5291345242780177,
+      "mean_return": 0.014578995245040582,
+      "n": 8
+    },
+    {
+      "ticker": "USDKRW=X",
+      "asset_class": "Forex",
+      "price": 1468.8399658203125,
+      "t_stat": 1.5246833493194785,
+      "mean_return": 0.004470293201016884,
+      "n": 8
+    },
+    {
+      "ticker": "RBLX",
+      "asset_class": "Stock",
+      "price": 87.27999877929688,
+      "t_stat": 1.519124358777438,
+      "mean_return": 0.033650817396403125,
+      "n": 7
+    },
+    {
+      "ticker": "VNM",
+      "asset_class": "ETF",
+      "price": 19.729999542236328,
+      "t_stat": 1.5126387092720723,
+      "mean_return": 0.015738345349277174,
+      "n": 7
+    },
+    {
+      "ticker": "EMR",
+      "asset_class": "Stock",
+      "price": 149.4600067138672,
+      "t_stat": 1.509121792184499,
+      "mean_return": 0.022141966535234304,
+      "n": 5
+    },
+    {
+      "ticker": "BKNG",
+      "asset_class": "Stock",
+      "price": 5115.91015625,
+      "t_stat": 1.504367821081265,
+      "mean_return": 0.015258553020738396,
+      "n": 10
+    }
+  ],
+  "unfavorable": [
+    {
+      "ticker": "JTO-USD",
+      "asset_class": "Crypto",
+      "price": 0.40297025442123413,
+      "t_stat": -3.6730018629964354,
+      "mean_return": -0.06106763464750169,
+      "n": 30
+    },
+    {
+      "ticker": "MINA-USD",
+      "asset_class": "Crypto",
+      "price": 0.08841469883918762,
+      "t_stat": -3.6653746294010827,
+      "mean_return": -0.0703550219425011,
+      "n": 15
+    },
+    {
+      "ticker": "XRAY",
+      "asset_class": "Stock",
+      "price": 12.210000038146973,
+      "t_stat": -3.5387921459041602,
+      "mean_return": -0.06081246185909319,
+      "n": 10
+    },
+    {
+      "ticker": "XLP",
+      "asset_class": "ETF",
+      "price": 82.11000061035156,
+      "t_stat": -3.1720773731201786,
+      "mean_return": -0.015954658169340385,
+      "n": 8
+    },
+    {
+      "ticker": "USDPLN=X",
+      "asset_class": "Forex",
+      "price": 3.626149892807007,
+      "t_stat": -3.166674258624382,
+      "mean_return": -0.004043584989797247,
+      "n": 16
+    },
+    {
+      "ticker": "SPT",
+      "asset_class": "Stock",
+      "price": 9.350000381469727,
+      "t_stat": -3.127888456890478,
+      "mean_return": -0.06540490912439409,
+      "n": 5
+    },
+    {
+      "ticker": "MCHP",
+      "asset_class": "Stock",
+      "price": 74.69999694824219,
+      "t_stat": -2.920632130900714,
+      "mean_return": -0.06413643226263957,
+      "n": 10
+    },
+    {
+      "ticker": "EURSEK=X",
+      "asset_class": "Forex",
+      "price": 10.695240020751953,
+      "t_stat": -2.865768320026015,
+      "mean_return": -0.0033084996473599386,
+      "n": 11
+    },
+    {
+      "ticker": "FRT",
+      "asset_class": "Stock",
+      "price": 103.66999816894531,
+      "t_stat": -2.6938833398110726,
+      "mean_return": -0.028845816656741415,
+      "n": 7
+    },
+    {
+      "ticker": "WY",
+      "asset_class": "Stock",
+      "price": 27.059999465942383,
+      "t_stat": -2.6217646995189976,
+      "mean_return": -0.019298812385969304,
+      "n": 13
+    },
+    {
+      "ticker": "WDAY",
+      "asset_class": "Stock",
+      "price": 186.86000061035156,
+      "t_stat": -2.56157460901371,
+      "mean_return": -0.0398747591134988,
+      "n": 8
+    },
+    {
+      "ticker": "WAT",
+      "asset_class": "Stock",
+      "price": 387.3699951171875,
+      "t_stat": -2.452088939266444,
+      "mean_return": -0.04945727442334406,
+      "n": 6
+    },
+    {
+      "ticker": "NCLH",
+      "asset_class": "Stock",
+      "price": 22.010000228881836,
+      "t_stat": -2.4492022217831866,
+      "mean_return": -0.05217047671336609,
+      "n": 6
+    },
+    {
+      "ticker": "CLX",
+      "asset_class": "Stock",
+      "price": 109.9800033569336,
+      "t_stat": -2.286715021516241,
+      "mean_return": -0.01497974273400783,
+      "n": 9
+    },
+    {
+      "ticker": "SHW",
+      "asset_class": "Stock",
+      "price": 357.8299865722656,
+      "t_stat": -2.265550561122848,
+      "mean_return": -0.012919831159127992,
+      "n": 11
+    },
+    {
+      "ticker": "TRX-USD",
+      "asset_class": "Crypto",
+      "price": 0.3173580765724182,
+      "t_stat": -2.1893619193499387,
+      "mean_return": -0.026063939417014393,
+      "n": 10
+    },
+    {
+      "ticker": "STZ",
+      "asset_class": "Stock",
+      "price": 156.63999938964844,
+      "t_stat": -2.154732960660022,
+      "mean_return": -0.0286077061556248,
+      "n": 8
+    },
+    {
+      "ticker": "GBPCHF=X",
+      "asset_class": "Forex",
+      "price": 1.073580026626587,
+      "t_stat": -2.1330671276594497,
+      "mean_return": -0.003445125724479245,
+      "n": 13
+    },
+    {
+      "ticker": "BIO",
+      "asset_class": "Stock",
+      "price": 313.5299987792969,
+      "t_stat": -2.0633361558742833,
+      "mean_return": -0.015129734047192134,
+      "n": 10
+    },
+    {
+      "ticker": "ALGO-USD",
+      "asset_class": "Crypto",
+      "price": 0.13119681179523468,
+      "t_stat": -2.0193773121801404,
+      "mean_return": -0.05422090646909555,
+      "n": 9
+    },
+    {
+      "ticker": "PANW",
+      "asset_class": "Stock",
+      "price": 187.66000366210938,
+      "t_stat": -2.008663225356083,
+      "mean_return": -0.049041558374080904,
+      "n": 5
+    },
+    {
+      "ticker": "SOFI",
+      "asset_class": "Stock",
+      "price": 26.1299991607666,
+      "t_stat": -2.0024200999975323,
+      "mean_return": -0.03368561417122092,
+      "n": 7
+    },
+    {
+      "ticker": "ZS",
+      "asset_class": "Stock",
+      "price": 213.97999572753906,
+      "t_stat": -1.9883433059477145,
+      "mean_return": -0.02834853311834551,
+      "n": 8
+    },
+    {
+      "ticker": "WAVES-USD",
+      "asset_class": "Crypto",
+      "price": 0.675076425075531,
+      "t_stat": -1.984276529550427,
+      "mean_return": -0.029211960949033132,
+      "n": 33
+    },
+    {
+      "ticker": "USDSEK=X",
+      "asset_class": "Forex",
+      "price": 9.212900161743164,
+      "t_stat": -1.9176612511373012,
+      "mean_return": -0.006108432532412926,
+      "n": 6
+    },
+    {
+      "ticker": "UNG",
+      "asset_class": "ETF",
+      "price": 10.329999923706055,
+      "t_stat": -1.9123370580367631,
+      "mean_return": -0.021927653100878696,
+      "n": 15
+    },
+    {
+      "ticker": "USDRUB=X",
+      "asset_class": "Forex",
+      "price": 77.9000015258789,
+      "t_stat": -1.907971983204002,
+      "mean_return": -0.007025405877650659,
+      "n": 6
+    },
+    {
+      "ticker": "FE",
+      "asset_class": "Stock",
+      "price": 47.34000015258789,
+      "t_stat": -1.9013923878832648,
+      "mean_return": -0.020701924377505582,
+      "n": 12
+    },
+    {
+      "ticker": "CAG",
+      "asset_class": "Stock",
+      "price": 16.959999084472656,
+      "t_stat": -1.8929871342757845,
+      "mean_return": -0.015534751511218858,
+      "n": 12
+    },
+    {
+      "ticker": "KCS-USD",
+      "asset_class": "Crypto",
+      "price": 11.481468200683594,
+      "t_stat": -1.859938946124377,
+      "mean_return": -0.021099435581855897,
+      "n": 6
+    },
+    {
+      "ticker": "AGIX-USD",
+      "asset_class": "Crypto",
+      "price": 0.12058870494365692,
+      "t_stat": -1.8569658005360037,
+      "mean_return": -0.047288747906112344,
+      "n": 18
+    },
+    {
+      "ticker": "USDCZK=X",
+      "asset_class": "Forex",
+      "price": 20.86400032043457,
+      "t_stat": -1.8553243404670308,
+      "mean_return": -0.004156396172683208,
+      "n": 8
+    },
+    {
+      "ticker": "GT-USD",
+      "asset_class": "Crypto",
+      "price": 10.365110397338867,
+      "t_stat": -1.839717281037535,
+      "mean_return": -0.034931715406829766,
+      "n": 8
+    },
+    {
+      "ticker": "KIM",
+      "asset_class": "Stock",
+      "price": 21.059999465942383,
+      "t_stat": -1.8140319160016942,
+      "mean_return": -0.026708880854596995,
+      "n": 7
+    },
+    {
+      "ticker": "AUDCHF=X",
+      "asset_class": "Forex",
+      "price": 0.5356299877166748,
+      "t_stat": -1.7736082721452697,
+      "mean_return": -0.007327523124928348,
+      "n": 7
+    },
+    {
+      "ticker": "ARE",
+      "asset_class": "Stock",
+      "price": 57.88999938964844,
+      "t_stat": -1.7717420841447888,
+      "mean_return": -0.04238692841528625,
+      "n": 16
+    },
+    {
+      "ticker": "GIS",
+      "asset_class": "Stock",
+      "price": 44.5099983215332,
+      "t_stat": -1.7555400629602549,
+      "mean_return": -0.011944115843243472,
+      "n": 9
+    },
+    {
+      "ticker": "NU",
+      "asset_class": "Stock",
+      "price": 16.600000381469727,
+      "t_stat": -1.7196240811951446,
+      "mean_return": -0.020479383355918108,
+      "n": 6
+    },
+    {
+      "ticker": "DE",
+      "asset_class": "Stock",
+      "price": 514.4000244140625,
+      "t_stat": -1.7146069339658265,
+      "mean_return": -0.01208354871696936,
+      "n": 9
+    },
+    {
+      "ticker": "PAYX",
+      "asset_class": "Stock",
+      "price": 111.18000030517578,
+      "t_stat": -1.712110175948232,
+      "mean_return": -0.008384982763840143,
+      "n": 8
+    },
+    {
+      "ticker": "AXS-USD",
+      "asset_class": "Crypto",
+      "price": 2.134050130844116,
+      "t_stat": -1.6623587793756212,
+      "mean_return": -0.0431723069901457,
+      "n": 15
+    },
+    {
+      "ticker": "WEC",
+      "asset_class": "Stock",
+      "price": 108.58999633789062,
+      "t_stat": -1.6254549337722415,
+      "mean_return": -0.009993287192119116,
+      "n": 12
+    },
+    {
+      "ticker": "ENJ-USD",
+      "asset_class": "Crypto",
+      "price": 0.0344354584813118,
+      "t_stat": -1.5946940999306587,
+      "mean_return": -0.030442321430325246,
+      "n": 11
+    },
+    {
+      "ticker": "LRC-USD",
+      "asset_class": "Crypto",
+      "price": 0.05397525429725647,
+      "t_stat": -1.5821219103897064,
+      "mean_return": -0.026621342456019163,
+      "n": 23
+    },
+    {
+      "ticker": "EURCHF=X",
+      "asset_class": "Forex",
+      "price": 0.932669997215271,
+      "t_stat": -1.5752232686499796,
+      "mean_return": -0.003194599521016631,
+      "n": 13
+    },
+    {
+      "ticker": "QBTS",
+      "asset_class": "Stock",
+      "price": 28.829999923706055,
+      "t_stat": -1.5517872973528677,
+      "mean_return": -0.05179672442066541,
+      "n": 7
+    },
+    {
+      "ticker": "VRSK",
+      "asset_class": "Stock",
+      "price": 220.41000366210938,
+      "t_stat": -1.545853326384006,
+      "mean_return": -0.011872433082054101,
+      "n": 8
+    },
+    {
+      "ticker": "SOL-USD",
+      "asset_class": "Crypto",
+      "price": 143.1993865966797,
+      "t_stat": -1.5392214686521533,
+      "mean_return": -0.031079941455107358,
+      "n": 12
+    }
+  ]
+}

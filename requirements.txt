@@ -1,0 +1,15 @@
+# SCCMU Core (CPU)
+numpy>=1.24.0
+
+# Modal deployment
+modal>=0.64.0
+
+# GPU acceleration (for Modal)
+# cupy-cuda12x>=12.0.0  # Installed in Modal image
+
+# Dataset streaming
+datasets>=2.14.0
+tqdm>=4.65.0
+
+# Development
+pytest>=7.0.0

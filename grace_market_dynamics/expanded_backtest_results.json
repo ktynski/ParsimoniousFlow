@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-01-17T20:32:44.250831",
+  "instruments_scanned": 667,
+  "test_days": 67,
+  "total_trades": 124,
+  "mean_signals_per_day": 1.8507462686567164,
+  "win_rate": 0.27419354838709675,
+  "mean_return": -0.007025822026439714,
+  "sharpe": -0.6672371409501336,
+  "top_signals": [
+    {
+      "ticker": "CRSP",
+      "t_stat": 3.291839026513197,
+      "expected_return": 0.07300782441142117,
+      "price": 53.84000015258789,
+      "direction": "LONG"
+    },
+    {
+      "ticker": "DGX",
+      "t_stat": 3.191266527727403,
+      "expected_return": 0.020297967719232802,
+      "price": 173.64682006835938,
+      "direction": "LONG"
+    }
+  ]
+}
