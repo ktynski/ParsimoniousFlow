@@ -33,3 +33,6 @@ Thumbs.db
 
 # Large files
 *.zip
+
+# Private directories
+holographic_prod/
